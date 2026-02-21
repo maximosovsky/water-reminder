@@ -120,7 +120,10 @@ Add to `.vscode/tasks.json` in your workspace:
 }
 ```
 
-VS Code will ask "Allow automatic tasks?" — click **Allow**.
+**One-time activation:** `Ctrl+Shift+P` → `Tasks: Manage Automatic Tasks in Folder` → **Allow Automatic Tasks in Folder**.
+
+> [!TIP]
+> VS Code may show a popup "Allow automatic tasks?" on first open — click **Allow**. If the popup doesn't appear, use the Command Palette method above.
 
 ---
 
