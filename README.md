@@ -4,7 +4,7 @@
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey?style=for-the-badge)
 
 **Desktop reminder to drink water and take breaks**
 
@@ -143,4 +143,4 @@ Fork → `feature/your-idea` → Pull Request
 
 ## 📄 License
 
-[Max Osovsky](https://www.linkedin.com/in/osovsky/). Licensed under [MIT](LICENSE).
+[Max Osovsky](https://www.linkedin.com/in/osovsky/). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
