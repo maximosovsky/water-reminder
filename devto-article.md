@@ -3,7 +3,7 @@ title: I Asked My AI to Remind Me to Drink Water. It Built a Product Instead.
 published: false
 description: How a simple request during a 3-hour coding marathon turned into an open-source Windows utility — built entirely through AI pair programming.
 tags: powershell, productivity, opensource, ai
-cover_image: https://raw.githubusercontent.com/maximosovsky/water-reminder/master/screenshot.jpg
+cover_image: https://raw.githubusercontent.com/maximosovsky/water-reminder/master/screenshot-2.jpg
 ---
 
 I was 62 minutes into a coding session when I asked my AI assistant: **"Do you even have a rule to remind me about water?"**
@@ -62,7 +62,7 @@ The popup uses a dark theme that doesn't blind you during late-night sessions:
 - Accent: `rgb(100, 180, 255)` — soft blue
 - Typography: Segoe UI with a 48pt emoji on top
 
-[![Water Reminder popup](https://raw.githubusercontent.com/maximosovsky/water-reminder/master/screenshot.jpg)](https://github.com/maximosovsky/water-reminder)
+[![Water Reminder popup](https://raw.githubusercontent.com/maximosovsky/water-reminder/master/screenshot-1.jpg)](https://github.com/maximosovsky/water-reminder)
 
 No Electron. No Node. No dependencies. Just PowerShell and .NET assemblies that ship with every Windows installation.
 
